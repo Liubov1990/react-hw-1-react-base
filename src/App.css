@@ -1,0 +1,16 @@
+.container {
+  width: 1440px;
+  height: auto;
+  background-color: #3399cc;
+  border: 25px solid #2b81ac;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.container--inner {
+  width: 1166px;
+  margin: 0 auto;
+  padding-top: 41px;
+  padding-bottom: 97px;
+  box-sizing: border-box;
+}

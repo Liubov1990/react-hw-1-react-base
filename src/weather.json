@@ -1,0 +1,43 @@
+[
+  { "id": 1, "city": "Lisbon", "temperature": "21°C", "icon": "wi-day-sunny" },
+  { "id": 2, "city": "Paris", "temperature": "11°C", "icon": "wi-night-sleet" },
+  {
+    "id": 3,
+    "city": "Belgrade",
+    "temperature": "15°C",
+    "icon": "wi-day-cloudy"
+  },
+  {
+    "id": 4,
+    "city": "Venice",
+    "temperature": "21°C",
+    "icon": "wi-day-cloudy-high"
+  },
+  { "id": 5, "city": "Tel-Avive", "temperature": "32°C", "icon": "wi-hot" },
+  { "id": 6, "city": "Cair", "temperature": "21°C", "icon": "wi-day-sunny" },
+  {
+    "id": 7,
+    "city": "New-York",
+    "temperature": "17°C",
+    "icon": "wi-day-storm-showers"
+  },
+  {
+    "id": 8,
+    "city": "New-Delhi",
+    "temperature": "17°C",
+    "icon": "wi-rain-wind"
+  },
+  {
+    "id": 9,
+    "city": "San-Francisco",
+    "temperature": "15°C",
+    "icon": "wi-day-sunny-overcast"
+  },
+  { "id": 10, "city": "Tokyo", "temperature": "8°C", "icon": "wi-night-clear" },
+  {
+    "id": 11,
+    "city": "Sydney",
+    "temperature": "25°C",
+    "icon": "wi-night-partly-cloudy"
+  }
+]
